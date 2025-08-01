@@ -14,7 +14,7 @@ buildscript {
 
 android {
     compileSdkVersion 33
-
+    namespace 'com.webengage'
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 33
